@@ -1,0 +1,4 @@
+.menu li > *:not(ul, .menu-title, details, .btn):active,
+.menu li > *:not(ul, .menu-title, details, .btn).active {
+  background-color: #37cdbe;
+}
